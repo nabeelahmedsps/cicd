@@ -2,7 +2,7 @@ name: PMD Checks
 run-name: it is name
 on:
   pull_request:
-    branches: ["main"]
+    branches: ["master"]
      
 jobs:
   pmd-analysis:
