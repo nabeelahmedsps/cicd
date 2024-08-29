@@ -1,5 +1,5 @@
 public with sharing class Myclass {
     public Myclass() {
-        system.debug('Helloworld123');
+        system.debug('Helloworld');
     }
 }
